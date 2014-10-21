@@ -2,8 +2,9 @@ Pizza! Pizza!
 =====
 ## Top 2 Pizza flavors
  * @ tom2anspach
- * plain 'ol cheese
- * old skool pepperoni
+ 
+  * plain 'ol cheese
+  * old skool pepperoni
  
   
  * @ odsneed
