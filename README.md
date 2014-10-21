@@ -2,7 +2,7 @@ Pizza! Pizza!
 =====
 ## Top 2 Pizza flavors
  * @ odsneed
- * my fav flavors
+##
  * 
  *
  * @ aarondfield
