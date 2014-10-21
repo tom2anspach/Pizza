@@ -2,32 +2,38 @@ Pizza! Pizza!
 =====
 ## Top 2 Pizza flavors
  * @ odsneed
-##
  * 
  *
- * @ aarondfield
- * my fav flavors 
+ 
+* @ aarondfield
  *
  *
- * @ gabrielzuniga
- * my fav flavors 
+ 
+* @ gabrielzuniga
  *
  *
- * @ Issac Switzer
- * my fav flavors
+ 
+* @ Issac Switzer
  *
  *
- * silentpoet75
+ 
+* silentpoet75
  * 
  *
- * @ Jaquantae
- * my fav flavors
+ 
+* @ Jaquantae
  *
  *
- * @ thomasanspach  
+ 
+* @ thomasanspach  
  * my fav flavors
  * meat zilla
  * veggie w/sausage and bananna peppers no jalepenos or pineapple
+ 
+* @ charlekwallin
+* 
+*
+
  
 
  
