@@ -26,7 +26,7 @@ Pizza! Pizza!
  
 
 * @ thomasanspach  
- * my fav flavors
+ 
  * meat zilla
  * veggie w/sausage and bananna peppers no jalepenos or pineapple
  
