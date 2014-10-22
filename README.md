@@ -16,7 +16,8 @@ Pizza! Pizza!
  
  
 
-* @ gabrielzuniga
+* @ gabrielzuniga :bike:
+* I just want to ride my bicycle!
 
  
 
@@ -31,7 +32,8 @@ Pizza! Pizza!
 
  
 
-* @ Jaquantae
+* @ Jaquantae :helicopter:
+* I like pizza in a helicopter
 
  
 
