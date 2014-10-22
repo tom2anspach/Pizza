@@ -21,8 +21,8 @@ Pizza! Pizza!
 
  
 
-* @ iswitzer
-      any toppings are good with me!!  :pizza: :+1:
+* @ iswitzer :pizza: :+1:
+  * any toppings are good with me!!  
 
 
 * @ silentpoet75 :yum:
