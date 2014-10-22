@@ -9,7 +9,7 @@ Pizza! Pizza!
   
  * @ odsneed
  
-* Oh Pepperoni, how much I love you... :rat:
+   * Oh Pepperoni, how much I love you... :rat:
  
 
 * @ aarondfield
@@ -44,7 +44,7 @@ Pizza! Pizza!
  
 
 * @ charlekwallin :octopus: :cat2:
-*   does dominoes have octocat?
+  * does dominoes have octocat?
 
 
  
