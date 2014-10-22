@@ -9,19 +9,20 @@ Pizza! Pizza!
   
  * @ odsneed
  
-* Oh Pepperoni, how much I love you... :rat:
+   * Oh Pepperoni, how much I love you... :rat:
  
 
 * @ aarondfield
  
  
 
-* @ gabrielzuniga
+* @ gabrielzuniga :bike:
+  *  I just want to ride my bicycle!
 
  
 
-* @ iswitzer
-      any toppings are good with me!!  :pizza: :+1:
+* @ iswitzer :pizza: :+1:
+  * any toppings are good with me!!  
 
 
 * @ silentpoet75 :yum:
@@ -31,7 +32,8 @@ Pizza! Pizza!
 
  
 
-* @ Jaquantae
+* @ Jaquantae :helicopter:
+  * I like pizza in a helicopter
 
  
 
@@ -41,7 +43,8 @@ Pizza! Pizza!
  * veggie w/sausage and bananna peppers no jalepenos or pineapple
  
 
-* @ charlekwallin
+* @ charlekwallin :octopus: :cat2:
+  * does dominoes have octocat?
 
 
  
