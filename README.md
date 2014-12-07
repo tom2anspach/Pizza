@@ -1,7 +1,7 @@
 Pizza! Pizza!
 =====
 ## Top 2 Pizza flavors
- * @ tom2anspach
+ * @ tom2anspach github lab rat :rat:
  
   * plain 'ol cheese
   * old skool pepperoni
@@ -9,25 +9,31 @@ Pizza! Pizza!
   
  * @ odsneed
  
+   * Oh Pepperoni, how much I love you... :rat:
  
 
 * @ aarondfield
  
  
 
-* @ gabrielzuniga
+* @ gabrielzuniga :bike:
+  *  I just want to ride my bicycle!
 
  
 
-* @ Issac Switzer
+* @ iswitzer :pizza: :+1:
+  * any toppings are good with me!!  
 
 
+* @ silentpoet75 :yum:
 
-* @ silentpoet75
+  * cheese pizza
+  * bacon with onion
 
  
 
-* @ Jaquantae
+* @ Jaquantae :helicopter:
+  * I like pizza in a helicopter
 
  
 
@@ -37,9 +43,12 @@ Pizza! Pizza!
  * veggie w/sausage and bananna peppers no jalepenos or pineapple
  
 
-* @ charlekwallin
+* @ charlekwallin :octopus: :cat2:
+  * does dominoes have octocat?
 
-
+* @ mdylanmitchell :chicken: :+1:
+  * Extra Cheese
+  * chicken
  
 
  
